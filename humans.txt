@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jim rainor   m@2.com  marshall
 
 # THANKS
 
